@@ -1,0 +1,16 @@
+{
+  "name": "as_03_bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Portfolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "as_03_bootstrap": "file:",
+    "gh-pages": "^6.1.1"
+  }
+}
